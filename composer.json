@@ -1,5 +1,5 @@
 {
-  "name": "bsa/bsa-2020-php-1",
+  "name": "bsa/bsa-modern-php-2022",
   "description": "Fist php group hometask",
   "type": "project",
   "authors": [
@@ -9,7 +9,7 @@
     }
   ],
   "require": {
-    "php": "^7.4"
+    "php": "^8"
   },
   "require-dev": {
     "phpunit/phpunit": "9.*"

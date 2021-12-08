@@ -1,18 +1,18 @@
-Binary Studio Academy PHP 2020
+Binary Studio Academy PHP 2022
 ====
 
-### Домашнее задание #1
+### Домашнее задание ([UA](ua.md))
 
 #### Требования
 
 Внимание: до начала выполнения задания следует убедиться, что у вас настроено рабочее окружение.
 А именно:
- - php7.4
+ - php 8
  - git
  - composer
 
 Рекомендуется использовать Vagrant и виртуальную машину Homestead.
-Подробнее здесь: [https://laravel.com/docs/7.x/homestead](https://laravel.com/docs/7.x/homestead)
+Подробнее здесь: [https://laravel.com/docs/master/homestead](https://laravel.com/docs/master/homestead)
 
 ***
 
@@ -21,8 +21,8 @@ Binary Studio Academy PHP 2020
 Установка показана в рабочем окружении OS Linux:
 
 ```bash
-git clone git@github.com:BinaryStudioAcademy/bsa-2020-php-1.git
-cd bsa-2020-php-1
+git clone git@github.com:BinaryStudioAcademy/bsa-modern-php-2022.git
+cd bsa-modern-php-2022
 composer install
 ```
 
@@ -147,7 +147,7 @@ php -S 0.0.0.0:80 -t ./src/Task3
 * **Для нас**: Рутинная проверка сводится к минимуму 
 и мы сможем сосредоточиться на рекомендациях и фидбеке.
 
-**Чего делать не стоит**
+**Чего делать нельзя**
 * Менять код assert-ов в тестах
 * Подгонять ответы под ожидаемые результаты (код мы все равно будем смотреть).
 
@@ -166,7 +166,7 @@ php -S 0.0.0.0:80 -t ./src/Task3
 
 #### Приём решений
 
-В идеале необходимо разместить ваше решение в отдельном репозитории на Bitbucket
+Ваше решение необходимо разместить в отдельном репозитории на [Bitbucket](https://bitbucket.org/)
 и прислать ссылку на него.
 
 Задавайте вопросы в комментариях к заданию в случае возникновения проблем.
