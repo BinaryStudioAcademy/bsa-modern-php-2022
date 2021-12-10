@@ -21,7 +21,7 @@ Binary Studio Academy PHP 2022
 Встановлення показане у робочому оточенні OS Linux:
 
 ```bash
-git clone git@github.com:BinaryStudioAcademy/bsa-modern-php-2022.git
+git clone https://github.com/BinaryStudioAcademy/bsa-modern-php-2022.git
 cd bsa-modern-php-2022
 composer install
 ```
